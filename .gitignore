@@ -1,0 +1,5 @@
+# Ignore PowerPoint files
+*.pptx
+
+# Ignore zip archives
+*.zip
